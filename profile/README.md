@@ -1,12 +1,21 @@
-## Hi there 👋
+# Eframix Organization
 
-<!--
+Welcome to the Eframix Organization! We create and maintain lightweight and efficient Node.js framework.
 
-**Here are some ideas to get you started:**
+## Repositories
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **[Eframix](https://github.com/eframix/eframix)**: A minimalistic Node.js framework inspired by Express.js, providing core routing, middleware, and JSON body parsing features with zero dependencies.
+
+- **[Documentation](https://github.com/eframix/documentation)**: The official documentation for Eframix, including guides, API references, and usage examples.
+
+- **[Community Resources](https://github.com/eframix/.github)**: Organization-wide resources, contribution guidelines, and community engagement materials.
+
+## Getting Involved
+
+We welcome contributions! Whether you want to report an issue, submit a pull request, or improve our documentation, your input is valuable.
+
+## License
+
+All repositories in the Eframix organization are licensed under the MIT License.
+
+Thank you for visiting the Eframix Organization!
